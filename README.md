@@ -83,7 +83,3 @@ Team project for managing parking sessions, billing, and IoT integration.
 
 ---
 
-## 📊 GitHub
-
-<!-- Optional: keep this section only if you like it -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NTHieu-bk&show_icons=true&hide_border=true)
