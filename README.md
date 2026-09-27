@@ -72,8 +72,11 @@ A passionate **Backend / Fullstack Software Engineer** dedicated to building res
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NTHieu-bk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hieu's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTHieu-bk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NTHieu-bk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hieu's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NTHieu-bk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NTHieu-bk&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
